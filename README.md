@@ -1,2 +1,3 @@
-# my-portfolio
-Professional Portfolio
+# Maison's Portfolio
+
+This is my professional Portfolio. It uses AWS and ReactJS.
